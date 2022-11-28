@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Quicksand;
+}
+.navbar {
+  margin-left: 32%;
+  padding: 8px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navList {
+  padding: 15px;
+}
+
+.aboutSection {
+  color: white;
+  width: 80%;
+  padding: 30px;
+  font-size: 35px;
+}
+.aboutTitle {
+  margin-left: 7%;
+  font-size: 100px;
+  color: orange;
+}
+
+.project-card {
+  position: relative;
+}
+.project-img {
+  position: relative;
+}
+
+.project-text {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+  height: 100%;
+  width: 100%;
+  padding: 10%;
+}
+
+.project-text:hover {
+  opacity: 1;
+}
+
+.res {
+  color: white;
+}
+.heading {
+  color: orange;
+  margin-left: 40%;
+  font-size: 60px;
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Quicksand", sans-serif;
+  src: local("Quicksand"),
+    url("/Users/kiannna/Desktop/GT-Bootcamp/Homework/react-portfolio/src/.src/fonts/Quicksand.ttf")
+      format("truetype");
+  font-weight: normal;
+}
