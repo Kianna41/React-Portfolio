@@ -16,3 +16,4 @@ Link to Github Repo: https://github.com/Kianna41/React-Portfolio
 Link to Deployed Url: https://kianna41.github.io/React-Portfolio/
 
 ## Mock-Up:
+<img width="1264" alt="Screen Shot 2022-11-28 at 9 02 57 PM" src="https://user-images.githubusercontent.com/107634328/204420640-0fda5277-9360-4397-9e5c-9b809577d40e.png">
