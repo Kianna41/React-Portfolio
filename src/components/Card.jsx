@@ -8,7 +8,7 @@ export default function Card({ text, githubLink }) {
       <div className="project-text">
         <h3>
           <a href="#">{text}</a>
-          <a href="#">{githubLink}</a>
+          <a href={githubLink}>{githubLink}</a>
         </h3>
       </div>
     </div>

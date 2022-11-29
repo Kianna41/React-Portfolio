@@ -7,13 +7,6 @@ export default function Header({ setPage }) {
         <div class="navbar">
           <button
             className="navList hover:bg-amber-500"
-            onClick={() => setPage("home")}
-          >
-            {" "}
-            Home
-          </button>
-          <button
-            className="navList hover:bg-amber-500"
             onClick={() => setPage("about")}
           >
             About Me{" "}
