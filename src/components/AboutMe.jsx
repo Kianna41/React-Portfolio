@@ -7,7 +7,7 @@ export default function AboutMe() {
         <div className="m-1 h-full col-span-3 grid grid-rows-1 gap-2  sm:grid-cols-1 ">
           <div className="grid grid-cols-1 bg-black pl-64 items-center gap-20 content-center">
             <div className="aboutSection card p-5 border-amber-500">
-              <div className="aboutTitle">ABOUT ME...</div>
+              <div className="aboutTitle">ABOUT ME</div>
               Hi! I am Kianna Reid, a current Software Engineer Immersive
               student at Georgia Tech University. I am also a graduate of
               Georgia Southern University where I received a Bachelors Degree in
