@@ -7,13 +7,12 @@ const projects = [
   { githubLink: "https://github.com/Kianna41/Employee-Tracker" },
   { githubLink: "https://github.com/Kianna41/Social-Network-API" },
   {
-    githubLink:
-      "https://github.com/Kianna41/Server-Side-APIs-Weather-Dashboard",
+    githubLink: "https://giveback-app2.herokuapp.com/",
   },
 ];
 export default function Projects() {
   return (
-    <div class="grid grid-cols-3 gap-5 bg-black">
+    <div className="grid grid-cols-3 gap-5 bg-black">
       {projects.map(function (project) {
         return <Card {...project} />;
       })}

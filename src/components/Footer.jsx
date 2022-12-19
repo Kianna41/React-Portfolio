@@ -4,7 +4,7 @@ import { SocialIcon } from "react-social-icons";
 export default function Footer() {
   return (
     <div>
-      <div class="footerSection w-screen bg-black p-3">
+      <div className="footerSection w-screen bg-black p-3">
         <div className="footerIcons">
           <SocialIcon
             url="https://linkedin.com/in/kianna-reid-7715a3242/"
